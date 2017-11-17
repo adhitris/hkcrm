@@ -1,0 +1,79 @@
+[30-Apr-2016 23:30:16 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 163
+[30-Apr-2016 23:30:54 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 163
+[30-Apr-2016 23:30:55 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 163
+[30-Apr-2016 23:31:13 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 163
+[30-Apr-2016 23:31:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '}' in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 163
+[06-May-2016 13:56:22 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 13:56:36 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 13:56:52 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 14:07:44 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 14:07:49 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 14:13:35 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[06-May-2016 14:15:17 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'assets' (T_STRING), expecting ',' or ';' in /home/harapank/public_html/crm/application/views/drequestcomplaint.php on line 219
+[13-May-2016 16:23:35 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_email() in /home/harapank/public_html/crm/application/controllers/Sendmails.php on line 10
+[13-May-2016 16:23:38 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_email() in /home/harapank/public_html/crm/application/controllers/Sendmails.php on line 10
+[13-May-2016 16:23:41 Asia/Jakarta] PHP Fatal error:  Call to undefined function send_email() in /home/harapank/public_html/crm/application/controllers/Sendmails.php on line 10
+[15-May-2016 12:56:39 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/harapank/public_html/crm/application/controllers/Request.php on line 168
+[15-May-2016 12:57:11 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/harapank/public_html/crm/application/controllers/Request.php on line 168
+[15-May-2016 12:57:28 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<br>Status : Request'' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 66
+[15-May-2016 12:59:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<br>Status : Request'' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 66
+[15-May-2016 13:01:14 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '$name' (T_VARIABLE) in /home/harapank/public_html/crm/application/controllers/Request.php on line 168
+[15-May-2016 13:01:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<br>Status : Request'' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 66
+[15-May-2016 13:03:21 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<br>Status : Request'' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 66
+[15-May-2016 13:05:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/Request.php on line 155
+[15-May-2016 13:07:43 Asia/Jakarta] PHP Fatal error:  Call to a member function getdatasales() on a non-object in /home/harapank/public_html/crm/application/controllers/Request.php on line 160
+[15-May-2016 13:11:11 Asia/Jakarta] PHP Fatal error:  Call to a member function getdatasales() on a non-object in /home/harapank/public_html/crm/application/controllers/Request.php on line 160
+[15-May-2016 13:17:59 Asia/Jakarta] PHP Parse error:  syntax error, unexpected ''<br>Status : Request'' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 68
+[15-May-2016 14:06:08 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 14:06:15 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 14:06:28 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 14:08:28 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 14:44:47 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 15:20:39 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 16:14:24 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 16:14:36 Asia/Jakarta] PHP Fatal error:  Cannot redeclare Model_customer::getname() in /home/harapank/public_html/crm/application/models/Model_customer.php on line 53
+[15-May-2016 16:23:04 Asia/Jakarta] PHP Fatal error:  Call to a member function getnames() on a non-object in /home/harapank/public_html/crm/application/controllers/Request.php on line 153
+[15-May-2016 16:23:50 Asia/Jakarta] PHP Fatal error:  Call to a member function getfk() on a non-object in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 20
+[15-May-2016 16:28:22 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 133
+[15-May-2016 16:32:08 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/Complaint.php on line 67
+[15-May-2016 16:34:24 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/Request.php on line 157
+[15-May-2016 16:55:58 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 16:56:27 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 16:57:08 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::complaint_getname() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 21
+[15-May-2016 16:59:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::complaint_getname() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 45
+[15-May-2016 17:04:41 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 17:11:47 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 45
+[15-May-2016 17:12:11 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 17:13:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 17:13:44 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::complaint_getname() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 21
+[15-May-2016 17:15:12 Asia/Jakarta] PHP Fatal error:  Call to a member function getname() on a non-object in /home/harapank/public_html/crm/application/views/vrequestcomplaint.php on line 221
+[15-May-2016 17:16:09 Asia/Jakarta] PHP Fatal error:  Call to a member function getname() on a non-object in /home/harapank/public_html/crm/application/views/vrequestapproval.php on line 106
+[15-May-2016 17:17:05 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 19:20:31 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 19:23:17 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 19:24:15 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 19:26:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method model_salesmonitoring::request_getname() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 21
+[15-May-2016 19:39:38 Asia/Jakarta] PHP Fatal error:  Call to undefined method CI_DB_mysqli_driver::_error_message() in /home/harapank/public_html/crm/application/models/Model_requestapproval.php on line 32
+[15-May-2016 19:40:37 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 60
+[15-May-2016 19:42:58 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 35
+[15-May-2016 19:43:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 59
+[15-May-2016 19:45:56 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 35
+[15-May-2016 19:49:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 35
+[15-May-2016 20:04:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 35
+[15-May-2016 20:05:11 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 35
+[15-May-2016 23:30:52 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 35
+[15-May-2016 23:40:02 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/RequestApproval.php on line 35
+[15-May-2016 23:58:10 Asia/Jakarta] PHP Fatal error:  Call to undefined function dat() in /home/harapank/public_html/crm/application/controllers/ComplaintApproval.php on line 35
+[01-Jun-2016 12:33:33 Asia/Jakarta] PHP Fatal error:  Call to undefined function character_limiter() in /home/harapank/public_html/crm/Sistem/application/views/vevent.php on line 109
+[01-Jun-2016 12:58:01 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '', $id);' (T_CONSTANT_ENCAPSED_STRING) in /home/harapank/public_html/crm/Sistem/application/controllers/Promo.php on line 45
+[01-Jun-2016 12:58:19 Asia/Jakarta] PHP Parse error:  syntax error, unexpected '?' in /home/harapank/public_html/crm/Sistem/application/views/vpromo.php on line 180
+[01-Jun-2016 13:00:32 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/harapank/public_html/crm/Sistem/application/views/vpromo.php on line 180
+[09-Jun-2016 15:24:05 Asia/Jakarta] PHP Parse error:  syntax error, unexpected 'echo' (T_ECHO) in /home/harapank/public_html/crm/Sistem/application/views/vpromo.php on line 179
+[15-Jun-2016 08:28:24 Asia/Jakarta] PHP Fatal error:  Call to a member function get_manager() on a non-object in /home/harapank/public_html/crm/Sistem/application/controllers/Complaint.php on line 92
+[15-Jun-2016 08:29:50 Asia/Jakarta] PHP Fatal error:  Call to a member function get_manager() on a non-object in /home/harapank/public_html/crm/Sistem/application/controllers/Complaint.php on line 92
+[15-Jun-2016 10:00:15 Asia/Jakarta] PHP Fatal error:  Call to a member function get_manager() on a non-object in /home/harapank/public_html/crm/Sistem/application/controllers/Complaint.php on line 92
+[15-Jun-2016 16:53:49 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_event::getfk() in /home/harapank/public_html/crm/Sistem/application/controllers/Event.php on line 93
+[15-Jun-2016 16:53:54 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_event::getfk() in /home/harapank/public_html/crm/Sistem/application/controllers/Event.php on line 93
+[15-Jun-2016 16:54:04 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_event::getfk() in /home/harapank/public_html/crm/Sistem/application/controllers/Event.php on line 93
+[15-Jun-2016 16:54:40 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_event::getfk() in /home/harapank/public_html/crm/Sistem/application/controllers/Event.php on line 93
+[15-Jun-2016 16:59:43 Asia/Jakarta] PHP Fatal error:  Call to undefined method Model_event::getfk() in /home/harapank/public_html/crm/Sistem/application/controllers/Event.php on line 93
